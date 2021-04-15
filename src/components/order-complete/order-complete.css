@@ -1,0 +1,34 @@
+.complete{
+    text-align: center;
+    margin-top: 8%;
+}
+.confetti{
+    height: 25vh;
+    width: 15vw;
+}
+.grey{
+    color: #bbb;
+}
+.track{
+    background: #fff;
+    border: 1px solid blue;
+    height: 6vh;
+    width: 12vw;
+    border-radius: 5px;
+    color: blue;
+    font-weight: bold;
+}
+.continue{
+    background: yellow;
+    border: none;
+    height: 6vh;
+    width: 15vw;
+    border-radius: 5px;
+    color: blue;
+    margin-left: 2%;
+    font-weight: bold;
+}
+.a-link{
+    text-decoration: none;
+    color: blue;
+}

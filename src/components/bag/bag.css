@@ -1,0 +1,14 @@
+.sad-smiley{
+    height: 20vh;
+    width: 10vw;
+}
+.empty{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.empty-info{
+    text-align: center;
+}

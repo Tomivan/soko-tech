@@ -1,0 +1,162 @@
+.upper-nav{
+    background-color: blue;
+    color: white;
+    height: 7vh;
+    margin-top: -1.5%;
+}
+.nav-p{
+    margin-left: 15%;
+    padding-top: .5em;
+}
+.lower-nav{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -3%;
+}
+.left-nav{
+    display: flex;
+    width: 30%;
+}
+.left-icon{
+    margin:5% 2% 0 5%;
+    background-color: #eee;
+    border-radius: 50%;
+    height: 7vh;
+    width: 3vw;
+    padding: .3em .4em;
+}
+.right-nav{
+    display: flex;
+}
+.right-nav-flex{
+    display: flex;
+    margin-top: 15%;
+    margin-right: 10%;
+}
+.right-icon{
+    margin-top: 17%;
+    padding-right: .5em;
+}
+.link{
+    text-decoration: none;
+    color: #000;
+}
+input{
+    height: 5.5vh;
+    width: 35vw;
+    border-radius: 5px;
+    background-color: #eee;
+    margin-left: 35%;
+    margin-top: -2%;
+    position: absolute;
+    border: none;
+}
+input::placeholder{
+    padding-left: .5em;
+    color: #ccc;
+} 
+.magnify-icon{
+    background-color: yellow;
+    margin-left: 68%;
+    margin-top: -2%;
+    position: absolute;
+    padding: .4em;
+    border-radius: 5px;
+}
+.upper-section{
+    margin-top: 3%;
+}
+.left-aside{
+    margin-left: 15%;
+    border-right: 1px solid #000 ;
+}
+.main{
+    margin-left: 35%;
+    position: absolute;
+    margin-top: -19.3%;
+    width: 35%;
+} 
+S{
+    color: #ccc;
+    margin-top: -2%;
+}
+.main-icon{
+    height: 15vh;
+    width: 5vw;
+    margin-right: 5%;
+}
+.sad-icon{
+    height: 15vh;
+    width: 7vw;
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.main-box{
+    display: flex;
+    justify-content: space-between;
+}
+.add{
+    background: #fff;
+    border: 1px solid blue;
+    height: 4vh;
+    width: 6vw;
+    border-radius: 5px;
+    margin-top: 20%;
+    color: blue;
+}
+.add-icon{
+   padding-right: .5em;
+   color: blue;
+}
+.right-aside{
+    margin-left: 75%;
+    position: absolute;
+    margin-top: -19.3%;
+}
+.lower-section{
+    background-color: blue;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 30%;
+}
+.lower-box{
+    color: #fff;
+    padding-left: 1em;
+    margin-top: 3%;
+}
+.lower-icon{
+    margin-left: 25%;
+}
+.footer{
+    text-align: center;
+}
+.footer-p{
+    color: #bbb;
+}
+.chat{
+    background-color: #25D366;
+    border: none;
+    border-radius: 5px;
+    width: 10vw;
+    height: 5vh;
+    color: #fff;
+    margin-bottom: 5%;
+    font-size: 14px;
+}
+.chat-icon{
+    color: white;
+    padding-right: .7em;
+}
+span{
+    background-color: blue;
+    color: white;
+    margin-left: 1%;
+    height: 2vh;
+    width: 2vw;
+    border-radius: 5px;
+    padding: .2em;
+}
