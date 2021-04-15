@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c8ad54f.chunk.css",
+    "main.js": "/static/js/main.c6496ef0.chunk.js",
+    "main.js.map": "/static/js/main.c6496ef0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb7b4601.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb7b4601.js.map",
+    "static/js/2.bb614fbd.chunk.js": "/static/js/2.bb614fbd.chunk.js",
+    "static/js/2.bb614fbd.chunk.js.map": "/static/js/2.bb614fbd.chunk.js.map",
+    "static/js/3.90db4496.chunk.js": "/static/js/3.90db4496.chunk.js",
+    "static/js/3.90db4496.chunk.js.map": "/static/js/3.90db4496.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2c8ad54f.chunk.css.map": "/static/css/main.2c8ad54f.chunk.css.map",
+    "static/js/2.bb614fbd.chunk.js.LICENSE.txt": "/static/js/2.bb614fbd.chunk.js.LICENSE.txt",
+    "static/media/carrot.08fe6352.jpg": "/static/media/carrot.08fe6352.jpg",
+    "static/media/confetti.1058860d.jpg": "/static/media/confetti.1058860d.jpg",
+    "static/media/facemask.b7855314.jpg": "/static/media/facemask.b7855314.jpg",
+    "static/media/protein.d0076259.png": "/static/media/protein.d0076259.png",
+    "static/media/sad.a8b96410.jpg": "/static/media/sad.a8b96410.jpg",
+    "static/media/twodoor.8f0ec9de.jpg": "/static/media/twodoor.8f0ec9de.jpg",
+    "static/media/woodenleg.03e0f887.png": "/static/media/woodenleg.03e0f887.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb7b4601.js",
+    "static/js/2.bb614fbd.chunk.js",
+    "static/css/main.2c8ad54f.chunk.css",
+    "static/js/main.c6496ef0.chunk.js"
+  ]
+}
