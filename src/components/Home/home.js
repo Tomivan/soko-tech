@@ -62,6 +62,7 @@ const Home = () => {
                     <p>kids [9]</p>
                     <a>View all categories</a>
                 </aside>
+                <hr className="vertical"/>
                 <main className="main">
                     <p>Electronics<span> 12</span></p>
                     <div className="main-box">
@@ -106,6 +107,7 @@ const Home = () => {
                         <button className="add"><Icon path={mdiPlus} size={0.5} className="add-icon"/>Add</button>
                     </div> 
                 </main>
+                <hr className="vertical-1"/>
                 <aside className="right-aside">
                     <p>Bag <span>0</span></p>
                     <img src={Sad} alt="" className="sad-icon"/>

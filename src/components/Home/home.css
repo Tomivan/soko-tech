@@ -73,7 +73,7 @@ input::placeholder{
 .main{
     margin-left: 35%;
     position: absolute;
-    margin-top: -19.3%;
+    margin-top: -24%;
     width: 35%;
 } 
 S{
@@ -114,14 +114,26 @@ S{
 .right-aside{
     margin-left: 75%;
     position: absolute;
-    margin-top: -19.3%;
+    margin-top: -25%;
+}
+.vertical{
+    width: 51%;
+    margin-top: 4.5%;
+    margin-left: 7%;
+    transform: rotate(-90deg);  
+}
+.vertical-1{
+    width: 51%;
+    margin-top: -0.8%;
+    margin-left: 47%;
+    transform: rotate(-90deg); 
 }
 .lower-section{
     background-color: blue;
     height: 25vh;
     display: flex;
     justify-content: center;
-    margin-top: 30%;
+    margin-top: 25.5%;
 }
 .lower-box{
     color: #fff;

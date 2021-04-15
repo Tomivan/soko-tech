@@ -1,9 +1,6 @@
-/* #bag-container{
-    margin: 3% 0 0 21%;
-    background: #ffffff;
-    border: none;
-    border-radius: 8px;
-    padding: 1em;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
-    width: 76vw;
-} */
+.vertical-2{
+    width: 51%;
+    margin-top: -3.3%;
+    margin-left: 47%;
+    transform: rotate(-90deg); 
+}

@@ -46,6 +46,15 @@ const Bag = () => {
                 </div>
             </section> */}
             <Fullbag />
+            <hr className="vertical-2"/>
+                <aside className="right-aside">
+                    <p>Bag <span>0</span></p>
+                    <img src={Sad} alt="" className="sad-icon"/>
+                    <div>
+                        <p>It's empty here</p>
+                        <p>Start shopping to add items to your shopping bag</p>
+                    </div>
+                </aside>
         </div>
     )
 }
