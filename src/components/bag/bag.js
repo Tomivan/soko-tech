@@ -4,6 +4,7 @@ import { mdiStorefrontOutline } from '@mdi/js';
 import { mdiBagPersonalOutline } from '@mdi/js';
 import { mdiAccountOutline } from '@mdi/js';
 import Sad from '../../assets/images/sad.jpg';
+import { Link } from '@reach/router';
 import Fullbag from './fullbag/fullbag';
 import './bag.css';
 
@@ -37,15 +38,15 @@ const Bag = () => {
                 </div>
             </nav>
             <hr />
-            {/* <section className="empty">
+            <section className="empty">
                 <img src={Sad} alt="" className="sad-smiley"/>
                 <div className="empty-info">
                         <p>It's empty here</p> 
                         <p>Start shopping to add items to your bag</p> 
-                        <button className="buy-button">Back to home page</button>  
+                        <button className="buy-button"><Link to="/" className="a-link">Back to home page</Link></button>  
                 </div>
-            </section> */}
-            <Fullbag />
+            </section>
+            {/* <Fullbag />
             <hr className="vertical-2"/>
                 <aside className="right-aside">
                     <p>Bag <span>0</span></p>
@@ -54,7 +55,7 @@ const Bag = () => {
                         <p>It's empty here</p>
                         <p>Start shopping to add items to your shopping bag</p>
                     </div>
-                </aside>
+                </aside> */}
         </div>
     )
 }
